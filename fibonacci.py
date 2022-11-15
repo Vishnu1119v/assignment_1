@@ -5,4 +5,4 @@ while res<=50:
     f_num=s_num
     s_num=res
     res=f_num+s_num
-    print(res,end=' ')
+    print(s_num,end=' ')
